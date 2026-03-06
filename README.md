@@ -41,6 +41,13 @@ This is formulated as a multi-class supervised classification problem.
 ```
 ---
 
+## Results
+Predication using Seven classes in Mood/Emotion
+![Model Results](./results1.png)
+
+Predication using three classes in Mood/Emotion
+![Model Results](./results2.png)
+
 ## 📊 Dataset Construction
 
 ### Final Dataset Columns
